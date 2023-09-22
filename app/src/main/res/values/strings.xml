@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">NewAS</string>
+    <string name="title_activity_modifier">ModifierActivity</string>
 </resources>
